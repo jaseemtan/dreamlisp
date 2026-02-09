@@ -1,5 +1,7 @@
 ## DreamLisp Programming Language Interpreter
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18535394.svg)](https://doi.org/10.5281/zenodo.18535394)
+
 DreamLisp is a Lisp dialect with immutable data structures, modules and is a 
 Lisp-2 with an unhygienic macro system. DreamLisp interpreter is implemented in
 Objective-C and as such can run on macOS and iOS. It is tail recursive, uses ARC
