@@ -1,5 +1,7 @@
 ## DreamLisp Programming Language Interpreter
 
+![dreamlisp-circle.png](dreamlisp-circle.png)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18535394.svg)](https://doi.org/10.5281/zenodo.18535394)
 
 DreamLisp is a Lisp dialect with immutable data structures, modules and is a 
